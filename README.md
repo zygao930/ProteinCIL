@@ -2,7 +2,7 @@
 
 Official implementation and benchmark for:
 
-Do Vision CIL Methods Transfer to Protein? A Diagnostic Benchmark of Frozen Protein Encoders
+## Do Vision CIL Methods Transfer to Protein? A Diagnostic Benchmark of Frozen Protein Encoders
 
 Accepted at NeurIPS 2026 Workshop on Continual Learning for Foundation Models and Agents (CL4FM Agents).
 
